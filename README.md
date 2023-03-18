@@ -1,1 +1,1 @@
-# bvs-LCA-srcipt
+# bvs-LCA-script
